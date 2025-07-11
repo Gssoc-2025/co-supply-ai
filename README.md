@@ -1,5 +1,3 @@
-# co-supply-ai
-
 # EcoSupplyAI
 
 > **AI‑powered sustainable supply‑chain platform for retail**
